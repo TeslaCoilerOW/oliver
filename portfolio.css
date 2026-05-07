@@ -663,6 +663,15 @@ h3 {
   font-size: 13px;
   font-weight: 500;
 }
+.timeline-logo {
+  margin-top: 14px;
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  background: #fff;
+}
 .timeline-body h3 {
   margin-bottom: 6px;
 }
@@ -1033,7 +1042,8 @@ h3 {
     grid-template-columns: 1fr;
     gap: 12px;
   }
-  .timeline-meta { flex-direction: row; gap: 14px; }
+  .timeline-meta { flex-direction: row; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .timeline-logo { margin-top: 0; width: 120px; flex-basis: 100%; }
   .card-specs > div { grid-template-columns: 1fr; gap: 4px; }
   .site-footer { flex-direction: column; gap: 8px; align-items: center; }
   .scroll-cue { display: none; }
