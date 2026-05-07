@@ -1,0 +1,7 @@
+.DS_Store
+*.zip
+node_modules/
+
+# Loose files not used by the site
+Copy of Oliver Wang Resume CommonApp.docx.pdf
+Oliver Wang Maker Portfolio.mp4
