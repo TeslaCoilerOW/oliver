@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" role="img" aria-labelledby="title">
-  <title id="title">Ross Mathematics Program logo</title>
-  <rect width="220" height="72" rx="8" fill="#ffffff"/>
-  <text x="22" y="35" fill="#1f2937" font-family="Georgia, Times New Roman, serif" font-size="24" font-weight="700">Ross</text>
-  <text x="22" y="54" fill="#4b5563" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">MATHEMATICS PROGRAM</text>
-  <path d="M158 18h30m-15-15v30m-23 20c13-22 27-22 40 0" fill="none" stroke="#2563eb" stroke-width="4" stroke-linecap="round"/>
-</svg>

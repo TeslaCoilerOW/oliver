@@ -664,13 +664,14 @@ h3 {
   font-weight: 500;
 }
 .timeline-logo {
-  margin-top: 14px;
+  margin-top: 16px;
   display: block;
-  width: 160px;
-  max-width: 100%;
+  width: auto;
   height: auto;
-  border-radius: 6px;
-  background: #fff;
+  max-width: 160px;
+  max-height: 64px;
+  object-fit: contain;
+  object-position: left center;
 }
 .timeline-body h3 {
   margin-bottom: 6px;
@@ -1043,7 +1044,7 @@ h3 {
     gap: 12px;
   }
   .timeline-meta { flex-direction: row; flex-wrap: wrap; gap: 14px; align-items: center; }
-  .timeline-logo { margin-top: 0; width: 120px; flex-basis: 100%; }
+  .timeline-logo { margin-top: 0; max-width: 120px; max-height: 48px; flex-basis: 100%; }
   .card-specs > div { grid-template-columns: 1fr; gap: 4px; }
   .site-footer { flex-direction: column; gap: 8px; align-items: center; }
   .scroll-cue { display: none; }

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 72" role="img" aria-labelledby="title">
-  <title id="title">Caelus Rocketry logo</title>
-  <rect width="220" height="72" rx="8" fill="#ffffff"/>
-  <path d="M28 50c16-25 36-35 62-33-3 26-15 45-42 59l2-20z" fill="#1f5f99"/>
-  <circle cx="62" cy="32" r="6" fill="#ffffff"/>
-  <path d="M35 54l-10 10 16-4z" fill="#f25f2c"/>
-  <text x="94" y="33" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">CAELUS</text>
-  <text x="94" y="52" fill="#475569" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">ROCKETRY</text>
-</svg>
